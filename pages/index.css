@@ -1,0 +1,7 @@
+@import url("../vendor/normalize.css");
+@import url("../blocks/nav.css");
+@import url("../blocks/header.css");
+@import url("../blocks/logo.css");
+
+/* font-family: 'Inter', sans-serif; abrev for Iter font... Use Arial as fallback, and generic sans-serif */
+/* font-family: 'Noto Serif', serif; abrev for Noto Serif...Times New Roman as fallback and generic sans-serif*/
