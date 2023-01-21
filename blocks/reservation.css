@@ -1,0 +1,13 @@
+.reservation {
+  background-image: url("../images/background_reservation.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: #d9e7ff;
+}
+
+.recipes__title {
+}
+
+.reservation__form {
+}

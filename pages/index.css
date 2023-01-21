@@ -4,6 +4,9 @@
 @import url("../blocks/logo.css");
 @import url("../blocks/card.css");
 @import url("../blocks/menu.css");
+@import url("../blocks/recipes.css");
+@import url("../blocks/reservation.css");
+@import url("../blocks/form.css");
 
 /* font-family: 'Inter', sans-serif; abrev for Iter font... Use Arial as fallback, and generic sans-serif */
 /* font-family: 'Noto Serif', serif; abrev for Noto Serif...Times New Roman as fallback and generic sans-serif*/
