@@ -6,8 +6,22 @@
   background-color: #d9e7ff;
 }
 
-.recipes__title {
+.reservation__form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
 }
 
-.reservation__form {
+.reservation__title {
+  padding-top: 100px;
+  padding-bottom: 80px;
+  text-align: center;
+  margin: 0;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
 }
