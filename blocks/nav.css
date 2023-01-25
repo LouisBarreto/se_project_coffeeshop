@@ -1,10 +1,9 @@
 .nav {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
   padding-top: 30px;
   padding-right: 80px;
-  flex-direction: row-reverse;
 }
 
 .nav__links {
@@ -22,8 +21,6 @@
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
-  font-size: 16px;
-  line-height: 20px;
 }
 
 .nav__link:hover {
