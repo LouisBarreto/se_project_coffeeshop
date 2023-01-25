@@ -5,8 +5,8 @@
 }
 
 .form__label {
-  padding-bottom: 8px;
   display: block;
+  padding-bottom: 8px;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -30,16 +30,15 @@
   color: #838383;
 }
 
-.form__label:last-child {
+.form__label_checkbox {
   display: flex;
   justify-content: center;
   gap: 12px;
-  padding-bottom: 120px;
+  padding: 0;
 }
 
 .form__button {
   text-align: center;
-  margin-top: 32px;
   margin-bottom: 32px;
   border-radius: 4px;
   padding: 0;
@@ -54,6 +53,7 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
+  cursor: pointer;
 }
 
 .form__button:hover {
@@ -67,4 +67,5 @@
   margin: 0;
   background-color: #2f80ed;
   background-image: url(../images/check.svg);
+  cursor: pointer;
 }
