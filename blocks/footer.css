@@ -1,6 +1,8 @@
 .footer {
   background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
   box-sizing: border-box;
+  padding-left: 80px;
+  padding-bottom: 60px;
 }
 
 .footer_logo {
@@ -9,7 +11,7 @@
 }
 
 .footer__content {
-  padding: 60px 100px 108px 80px;
+  padding: 60px 100px 108px 0px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -65,7 +67,5 @@
   font-weight: normal;
   font-size: 16px;
   line-height: 20px;
-  padding-left: 80px;
-  padding-bottom: 60px;
   margin: 0;
 }
