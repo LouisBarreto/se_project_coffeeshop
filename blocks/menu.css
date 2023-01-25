@@ -4,13 +4,13 @@
   background-position: center;
   background-repeat: no-repeat;
   background-color: #0a2750;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .menu__title {
   max-width: 780px;
   margin: 0px auto;
-  padding-top: 100px;
-  padding-bottom: 24px;
   text-align: center;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
@@ -23,6 +23,7 @@
 .menu__subtitle {
   color: #ffffff;
   margin: 0px auto;
+  margin-top: 24px;
   text-align: center;
   max-width: 780px;
   font-family: "Noto Serif", "Times New Roman", serif;
@@ -35,7 +36,6 @@
 .menu__cards {
   gap: 100px;
   padding-top: 100px;
-  padding-bottom: 100px;
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
