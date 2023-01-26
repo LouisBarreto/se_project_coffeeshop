@@ -32,9 +32,6 @@
   margin: 0 0 20px 0;
   color: #ffffff;
   font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 16px;
   line-height: 20px;
 }
 
@@ -48,10 +45,6 @@
   gap: 16px;
   text-decoration: none;
   font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 20px;
   color: #ffffff;
   transition: color linear 0.2s;
 }
@@ -63,9 +56,6 @@
 .footer__copyright {
   color: #ffffff;
   font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
   line-height: 20px;
   margin: 0;
 }
