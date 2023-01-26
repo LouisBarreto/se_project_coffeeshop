@@ -6,7 +6,7 @@
 
 .form__label {
   display: block;
-  padding-bottom: 8px;
+  margin-bottom: 8px;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
