@@ -14,7 +14,6 @@
   margin: 0 0 24px 0;
   max-width: 580px;
   font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
@@ -23,8 +22,6 @@
 .recipes__subtitle {
   max-width: 438px;
   font-family: "Noto Serif", "Times New Roman", serif;
-  font-style: normal;
-  font-weight: normal;
   font-size: 20px;
   line-height: 30px;
   margin: 0;
@@ -54,7 +51,6 @@
 .recipes__video-caption {
   margin: 24px 0 0 0;
   font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
