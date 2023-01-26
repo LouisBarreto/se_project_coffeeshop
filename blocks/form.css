@@ -8,7 +8,6 @@
   display: block;
   margin-bottom: 8px;
   font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
@@ -23,8 +22,6 @@
   padding: 0 0 0 20px;
   border: 0;
   font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
-  font-weight: normal;
   font-size: 20px;
   line-height: 30px;
   color: #838383;
@@ -49,7 +46,6 @@
   transition: opacity linear 0.3s;
   border: 0;
   font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
